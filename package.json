@@ -1,0 +1,24 @@
+{
+  "name": "api_tutorial",
+  "version": "1.0.0",
+  "description": "Creazione della prima API - Università di Trento, Laurea triennale in Informatica",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-berra/api_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-berra/api_tutorial/issues"
+  },
+  "homepage": "https://github.com/ivan-berra/api_tutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
